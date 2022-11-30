@@ -1,0 +1,883 @@
+2021-12-17 23:14:12 Reporter [INFO] Open the Admin Web App
+2021-12-17 23:14:12 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-17 23:14:14 Reporter [INFO] Entering UserName : neha@gmail.com
+2021-12-17 23:14:14 Reporter [INFO] Entering Password : ********
+2021-12-17 23:14:14 Reporter [INFO] Click on Login Button
+2021-12-17 23:14:15 Reporter [INFO] Dashboard page title found
+2021-12-17 23:14:20 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:14:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:14:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:14:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:14:20 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:14:20 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:14:20 Reporter [INFO] size of window handles 1
+2021-12-17 23:14:20 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:14:20 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:14:24 Reporter [INFO] ---------- false
+2021-12-17 23:14:28 Reporter [INFO] entered in this loop
+2021-12-17 23:14:28 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:14:28 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:14:29 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:14:37 Reporter [INFO] Clicked on Sub Accounts Link
+2021-12-17 23:14:38 Reporter [INFO] Account Name : 
+2021-12-17 23:14:38 Reporter [INFO] Account Code : 
+2021-12-17 23:14:40 Reporter [INFO] Clicked on ADD NEW Button
+2021-12-17 23:14:44 Reporter [INFO] Entered uniqueCode = A1639763069743
+2021-12-17 23:14:46 Reporter [INFO] Selected supportRep = Online Form
+2021-12-17 23:14:49 Reporter [INFO] Selected parentAccount = Certain System Root
+2021-12-17 23:14:49 Reporter [INFO] Set Active checkBox = true
+2021-12-17 23:14:49 Reporter [INFO] Entered accountName = A1639763069743
+2021-12-17 23:14:49 Reporter [INFO] Entered primaryContact = KPR
+2021-12-17 23:14:50 Reporter [INFO] Entered email = abc@abc.com
+2021-12-17 23:14:50 Reporter [INFO] Entered customerID = 12345
+2021-12-17 23:14:59 Reporter [INFO] Switched to account frame successfully
+2021-12-17 23:15:06 Reporter [INFO] Selected parentAccount = A1639763069743
+2021-12-17 23:15:12 Reporter [INFO] Clicked on Implementation drop Dwon
+2021-12-17 23:15:18 Reporter [INFO] Clicked on Products Dropdown Link
+2021-12-17 23:15:18 Reporter [DEBUG] Wait for page title to contains:Products | Certain
+2021-12-17 23:15:21 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:15:21 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:15:21 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:15:22 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:15:22 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:15:22 Reporter [INFO] Message displayed success
+2021-12-17 23:15:22 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:15:22 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:15:22 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:15:22 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:15:22 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:15:22 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:15:22 Reporter [INFO] size of window handles 1
+2021-12-17 23:15:22 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:15:22 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:15:54 Reporter [INFO] ---------- false
+2021-12-17 23:15:58 Reporter [INFO] entered in this loop
+2021-12-17 23:15:58 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:15:58 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:15:59 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:32:53 Reporter [INFO] Open the Admin Web App
+2021-12-17 23:32:54 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-17 23:32:55 Reporter [INFO] Entering UserName : neha@gmail.com
+2021-12-17 23:32:55 Reporter [INFO] Entering Password : ********
+2021-12-17 23:32:55 Reporter [INFO] Click on Login Button
+2021-12-17 23:32:57 Reporter [INFO] Dashboard page title found
+2021-12-17 23:33:09 Reporter [INFO] Clicked on Sub Accounts Link
+2021-12-17 23:33:10 Reporter [INFO] Switched to account frame successfully
+2021-12-17 23:33:17 Reporter [INFO] Selected parentAccount = A1639763069743
+2021-12-17 23:33:17 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:33:17 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:33:17 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:33:17 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:33:17 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:33:18 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:33:18 Reporter [INFO] size of window handles 1
+2021-12-17 23:33:18 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:33:18 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:33:18 Reporter [INFO] ---------- true
+2021-12-17 23:33:18 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:33:20 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:33:22 Reporter [INFO] Entered Event Code EFCSSC123 in the search box
+2021-12-17 23:33:24 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:33:28 Reporter [INFO] Entered Event Code EFCSSC123 is not found in event list
+2021-12-17 23:33:36 Reporter [INFO] Entered Value: Event for Conf Session Layout in 'Title' TextBox
+2021-12-17 23:33:36 Reporter [INFO] Entered Value: EFCSSC123 in 'Event Code' TextBox
+2021-12-17 23:33:36 Reporter [INFO] 12/17/2021
+2021-12-17 23:33:36 Reporter [INFO] Entered Value: 12/17/2021 in 'Start Date' TextBox
+2021-12-17 23:33:36 Reporter [INFO] Entered Value: 8:00 AM in 'Start Time' TextBox
+2021-12-17 23:33:36 Reporter [INFO] Current date by no of days 12/22/2021
+2021-12-17 23:33:36 Reporter [INFO] Entered Value: 12/22/2021 in 'End Date' TextBox
+2021-12-17 23:33:37 Reporter [INFO] Entered Value: 8:00 PM in 'End Time' TextBox
+2021-12-17 23:33:37 Reporter [INFO] Account value is null
+2021-12-17 23:33:37 Reporter [INFO] Selected Value: Live in 'Status' dropdown
+2021-12-17 23:33:37 Reporter [INFO] Entered Value: No Notes in 'Notes' TextBox
+2021-12-17 23:33:37 Reporter [INFO] Entered Value: 10 in 'Registration Inventory' TextBox
+2021-12-17 23:33:37 Reporter [INFO] Selected Value: $-US Dollar in 'Currency' dropdown
+2021-12-17 23:33:42 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:33:42 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:33:42 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:33:42 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:33:42 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:33:42 Reporter [INFO] Message displayed success
+2021-12-17 23:35:06 Reporter [INFO] <a target="_blank" href=screenshots/testEventScheduledEmailsSQA5154_2021_17_12_23_35_06_084.png> <img align="left" width="20%" src="screenshots/testEventScheduledEmailsSQA5154_2021_17_12_23_35_06_084.png" alt="Screenshot" /> </a> testEventScheduledEmailsSQA5154_2021_17_12_23_35_06_084
+2021-12-17 23:35:06 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:35:06 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:35:06 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:35:06 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:35:06 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:35:06 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:35:06 Reporter [INFO] size of window handles 1
+2021-12-17 23:35:06 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:35:06 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:35:38 Reporter [INFO] ---------- false
+2021-12-17 23:35:42 Reporter [INFO] entered in this loop
+2021-12-17 23:35:42 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:35:42 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:35:43 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:35:44 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:35:46 Reporter [INFO] Entered Event Code EFCSSC123 in the search box
+2021-12-17 23:35:48 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:36:29 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:36:29 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:36:29 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:36:30 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:36:30 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:36:30 Reporter [INFO] Message displayed success
+2021-12-17 23:36:31 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:36:31 Reporter [INFO] Clicked on 'Plan' menu item.
+2021-12-17 23:36:33 Reporter [INFO] Clicked on 'Form' menu item.
+2021-12-17 23:36:56 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:36:56 Reporter [INFO] Preview Button clicked successfully
+2021-12-17 23:37:04 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:37:06 Reporter [INFO] Attendee type radio button selected
+2021-12-17 23:37:14 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:37:18 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:37:21 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:37:22 Reporter [INFO] Dashboard button clicked successfiully
+2021-12-17 23:37:26 Reporter [INFO] Tabular button clicked successfully
+2021-12-17 23:37:33 Reporter [INFO] Row clicked successfully
+2021-12-17 23:37:44 Reporter [INFO] Profile tab clicked successfully
+2021-12-17 23:38:06 Reporter [INFO] Enter username reg1234password reg1234
+2021-12-17 23:38:10 Reporter [INFO] Promote link clicked successfully
+2021-12-17 23:38:13 Reporter [INFO] Website dropdown clicked successfully
+2021-12-17 23:38:14 Reporter [INFO] edit website button clicked
+2021-12-17 23:38:14 Reporter [INFO] Login required checkbox checked
+2021-12-17 23:38:19 Reporter [INFO] Logged in successfully and websites page displayed
+2021-12-17 23:38:21 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:38:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:38:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:38:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:38:21 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:38:21 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:38:21 Reporter [INFO] size of window handles 1
+2021-12-17 23:38:21 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:38:21 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:38:53 Reporter [INFO] ---------- false
+2021-12-17 23:38:57 Reporter [INFO] entered in this loop
+2021-12-17 23:38:57 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:38:57 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:38:58 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:38:59 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:39:01 Reporter [INFO] Entered Event Code EFCSSC123 in the search box
+2021-12-17 23:39:03 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:39:43 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:39:43 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:39:43 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:39:44 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:39:44 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:39:44 Reporter [INFO] Message displayed success
+2021-12-17 23:39:45 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:39:51 Reporter [INFO] Import/update Registration select successfully
+2021-12-17 23:39:51 Reporter [INFO] Switched into Iframe 
+2021-12-17 23:39:51 Reporter [INFO] Clicking on Next Button
+2021-12-17 23:39:51 Reporter [INFO] Absolute Path = C:\Automation\CertainCompleteCoverage\trunk\target\test-classes\files\import-reg-1000.txt
+2021-12-17 23:39:55 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:39:55 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:39:55 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:39:56 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:39:56 Reporter [INFO] ------Success
+2021-12-17 23:39:56 Reporter [INFO] File uploaded successfully
+2021-12-17 23:40:03 Reporter [DEBUG] Execute javascript: document.getElementsByName('importFile')[0].value='import-reg-1000.txt'
+2021-12-17 23:40:03 Reporter [INFO] Try sendKeys
+2021-12-17 23:40:03 Reporter [INFO] SendKeys Worked
+2021-12-17 23:40:03 Reporter [INFO] Value in drop down is : import-reg-1000.txt
+2021-12-17 23:40:05 Reporter [INFO] file import-reg-1000.txt is selected in the dropdown.
+2021-12-17 23:40:08 Reporter [INFO] Columns Match in File and Table on UI
+2021-12-17 23:40:08 Reporter [INFO] Clicking on Next Button
+2021-12-17 23:40:08 Reporter [INFO] selected value found successfully
+2021-12-17 23:40:08 Reporter [INFO] Max no of rows textbox value 10
+2021-12-17 23:40:12 Reporter [INFO] Clicking on Finish Button
+2021-12-17 23:40:15 Reporter [INFO] Check for Alert is present
+2021-12-17 23:40:15 Reporter [INFO] alert text found Are you sure that you want to import these registrations now?
+2021-12-17 23:40:17 Reporter [INFO] Final finish button
+2021-12-17 23:40:18 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:40:23 Reporter [INFO] registration count0
+2021-12-17 23:40:23 Reporter [INFO] Message : null
+2021-12-17 23:40:23 Reporter [INFO] Assertion Passed
+2021-12-17 23:40:23 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:40:23 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:40:23 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:40:23 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:40:23 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:40:24 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:40:24 Reporter [INFO] size of window handles 1
+2021-12-17 23:40:24 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:40:24 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:40:56 Reporter [INFO] ---------- false
+2021-12-17 23:41:00 Reporter [INFO] entered in this loop
+2021-12-17 23:41:00 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:41:00 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:41:01 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:41:01 Reporter [INFO] Clicked on Registration tab dropdown.
+2021-12-17 23:41:01 Reporter [INFO] Clicked on 'Registration Financial Data' menu item.
+2021-12-17 23:41:03 Reporter [INFO] Add new ecommerce button clicked successfully
+2021-12-17 23:41:03 Reporter [INFO] Selected online processor PayPal
+2021-12-17 23:41:06 Reporter [INFO] Successfully clicked on Ok button on alert popup.
+2021-12-17 23:41:08 Reporter [INFO] Clicked on Save Button
+2021-12-17 23:41:08 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:41:08 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:41:08 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:41:09 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:41:09 Reporter [INFO] ------Success
+2021-12-17 23:41:09 Reporter [INFO] Payment processor added successfully
+2021-12-17 23:41:15 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:41:17 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:41:19 Reporter [INFO] Entered Event Code EFPP6 in the search box
+2021-12-17 23:41:22 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:41:26 Reporter [INFO] Entered Event Code EFPP6 is not found in event list
+2021-12-17 23:41:31 Reporter [INFO] Entered Value: Event for payment processor in 'Title' TextBox
+2021-12-17 23:41:31 Reporter [INFO] Entered Value: EFPP6 in 'Event Code' TextBox
+2021-12-17 23:41:31 Reporter [INFO] 12/17/2021
+2021-12-17 23:41:31 Reporter [INFO] Entered Value: 12/17/2021 in 'Start Date' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Entered Value: 8:00 AM in 'Start Time' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Current date by no of days 12/22/2021
+2021-12-17 23:41:32 Reporter [INFO] Entered Value: 12/22/2021 in 'End Date' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Entered Value: 8:00 PM in 'End Time' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Account value is null
+2021-12-17 23:41:32 Reporter [INFO] Selected Value: Testing in 'Status' dropdown
+2021-12-17 23:41:32 Reporter [INFO] Entered Value: No Notes in 'Notes' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Entered Value: 10 in 'Registration Inventory' TextBox
+2021-12-17 23:41:32 Reporter [INFO] Selected Value: $-US Dollar in 'Currency' dropdown
+2021-12-17 23:41:36 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:41:36 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:41:36 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:41:37 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:41:37 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:41:37 Reporter [INFO] Message displayed success
+2021-12-17 23:42:11 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:42:11 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:42:11 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:42:12 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:42:12 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:42:12 Reporter [INFO] Message displayed success
+2021-12-17 23:42:13 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:42:19 Reporter [INFO] Event Details button clicked successfiully
+2021-12-17 23:42:22 Reporter [INFO] Successfully clicked on 'Finacial' tab.
+2021-12-17 23:42:22 Reporter [INFO] Successfully selected value: USD-TestPaypal12 in payment processing account dropdown.
+2021-12-17 23:42:25 Reporter [INFO] Successfully entered value: 25000 in Transaction textbox.
+2021-12-17 23:42:26 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:42:27 Reporter [INFO] Successfully clicked on attendee type tab button.
+2021-12-17 23:42:28 Reporter [INFO] Clicked on 'Add New Button'
+2021-12-17 23:42:28 Reporter [INFO] Successfully enter AttendeeRFee in name textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter AttendeeRFee in code textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter AttendeeRFee in display reg form textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully selected Fixed Fee/Discount in fee type dropdown.
+2021-12-17 23:42:29 Reporter [INFO] Successfully selected Non Taxable in tax rules dropdown.
+2021-12-17 23:42:29 Reporter [INFO] Successfully selected Apply Discounts in registration rules dropdown.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter 08/21/2016 in expiration date textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter RFee11639764662280 in reg fee code in textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter Display in display reg form textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter 2000 in registration fee amount textbox.
+2021-12-17 23:42:29 Reporter [INFO] Successfully enter 7263776612 in registration fee GL account textbox.
+2021-12-17 23:42:31 Reporter [INFO] Successfully clicked on save button.
+2021-12-17 23:42:32 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:42:34 Reporter [INFO] Successfully clicked on 'Add Registration' button.
+2021-12-17 23:42:38 Reporter [INFO] Entered required contact information Successfully
+2021-12-17 23:42:39 Reporter [INFO] Entered required contact details Successfully
+2021-12-17 23:42:40 Reporter [INFO] Entered required mailing details Successfully
+2021-12-17 23:42:41 Reporter [INFO] City values Berlin
+2021-12-17 23:42:41 Reporter [INFO] Entered required billing details Successfully
+2021-12-17 23:42:42 Reporter [INFO] Entered required shipping details Successfully
+2021-12-17 23:42:42 Reporter [INFO] Enter the Primary Location : London
+2021-12-17 23:42:42 Reporter [INFO] Successfully Entered the Primary Location : London
+2021-12-17 23:42:42 Reporter [INFO] Entered availability information Successfully
+2021-12-17 23:42:43 Reporter [INFO] Entered registration  information Successfully
+2021-12-17 23:42:49 Reporter [INFO] registration  information saved Successfully
+2021-12-17 23:42:53 Reporter [INFO] Successfully clicked on 'Finacial' tab.
+2021-12-17 23:42:56 Reporter [INFO] --Value of get balance amount due is 2000.0
+2021-12-17 23:42:56 Reporter [INFO] Payment button clicked successfully
+2021-12-17 23:42:58 Reporter [INFO] Selected payment type dropdown value 
+2021-12-17 23:42:58 Reporter [INFO] Entered transaction description name By credit card
+2021-12-17 23:42:58 Reporter [INFO] Entered amount no 100
+2021-12-17 23:42:58 Reporter [INFO] Entered notes value By credit card user notes
+2021-12-17 23:42:59 Reporter [INFO] Entered General ledger number 2726762
+2021-12-17 23:42:59 Reporter [INFO] Selected date value null
+2021-12-17 23:42:59 Reporter [INFO] Submit button clicked successfully
+2021-12-17 23:43:04 Reporter [INFO] --Value of get balance amount due is 1900.0
+2021-12-17 23:43:04 Reporter [INFO] Current balance due 1900.0matched with expected balance due 1900.0
+2021-12-17 23:43:04 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:43:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:43:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:43:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:43:04 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:43:04 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:43:04 Reporter [INFO] size of window handles 1
+2021-12-17 23:43:04 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:43:04 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:43:36 Reporter [INFO] ---------- false
+2021-12-17 23:43:40 Reporter [INFO] entered in this loop
+2021-12-17 23:43:40 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:43:40 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:43:40 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:43:41 Reporter [INFO] Clicked on Registration tab dropdown.
+2021-12-17 23:43:41 Reporter [INFO] Clicked on 'Registration Financial Data' menu item.
+2021-12-17 23:43:43 Reporter [INFO] Add new ecommerce button clicked successfully
+2021-12-17 23:43:44 Reporter [INFO] Selected online processor Stripe
+2021-12-17 23:43:48 Reporter [INFO] Clicked on Save Button
+2021-12-17 23:43:48 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:43:48 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:43:48 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:43:48 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:43:48 Reporter [INFO] ------Success
+2021-12-17 23:43:48 Reporter [INFO] Payment processor added successfully
+2021-12-17 23:43:55 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:43:57 Reporter [INFO] Entered Event Code EFSTPP1 in the search box
+2021-12-17 23:44:00 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:44:04 Reporter [INFO] Entered Event Code EFSTPP1 is not found in event list
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: Event for stripe processor in 'Title' TextBox
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: EFSTPP1 in 'Event Code' TextBox
+2021-12-17 23:44:09 Reporter [INFO] 12/17/2021
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: 12/17/2021 in 'Start Date' TextBox
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: 8:00 AM in 'Start Time' TextBox
+2021-12-17 23:44:09 Reporter [INFO] Current date by no of days 12/22/2021
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: 12/22/2021 in 'End Date' TextBox
+2021-12-17 23:44:09 Reporter [INFO] Entered Value: 8:00 PM in 'End Time' TextBox
+2021-12-17 23:44:09 Reporter [INFO] Account value is null
+2021-12-17 23:44:10 Reporter [INFO] Selected Value: Testing in 'Status' dropdown
+2021-12-17 23:44:10 Reporter [INFO] Entered Value: No Notes in 'Notes' TextBox
+2021-12-17 23:44:10 Reporter [INFO] Entered Value: 10 in 'Registration Inventory' TextBox
+2021-12-17 23:44:10 Reporter [INFO] Selected Value: $-US Dollar in 'Currency' dropdown
+2021-12-17 23:44:12 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:44:12 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:44:12 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:44:13 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:44:13 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:44:13 Reporter [INFO] Message displayed success
+2021-12-17 23:44:47 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:44:47 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:44:47 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:44:47 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:44:47 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:44:47 Reporter [INFO] Message displayed success
+2021-12-17 23:44:48 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:44:51 Reporter [INFO] Event Details button clicked successfiully
+2021-12-17 23:44:54 Reporter [INFO] Successfully clicked on 'Finacial' tab.
+2021-12-17 23:44:54 Reporter [INFO] Successfully selected value: USD-TestStripe in payment processing account dropdown.
+2021-12-17 23:44:57 Reporter [INFO] Successfully entered value: 25000 in Transaction textbox.
+2021-12-17 23:44:58 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:44:59 Reporter [INFO] Successfully clicked on attendee type tab button.
+2021-12-17 23:45:00 Reporter [INFO] Clicked on 'Add New Button'
+2021-12-17 23:45:00 Reporter [INFO] Successfully enter AttendeeRFee in name textbox.
+2021-12-17 23:45:00 Reporter [INFO] Successfully enter AttendeeRFee in code textbox.
+2021-12-17 23:45:00 Reporter [INFO] Successfully enter AttendeeRFee in display reg form textbox.
+2021-12-17 23:45:01 Reporter [INFO] Successfully selected Fixed Fee/Discount in fee type dropdown.
+2021-12-17 23:45:01 Reporter [INFO] Successfully selected Non Taxable in tax rules dropdown.
+2021-12-17 23:45:01 Reporter [INFO] Successfully selected Apply Discounts in registration rules dropdown.
+2021-12-17 23:45:01 Reporter [INFO] Successfully enter 08/21/2016 in expiration date textbox.
+2021-12-17 23:45:01 Reporter [INFO] Successfully enter RFee11639764821985 in reg fee code in textbox.
+2021-12-17 23:45:01 Reporter [INFO] Successfully enter Display in display reg form textbox.
+2021-12-17 23:45:01 Reporter [INFO] Successfully enter 2000 in registration fee amount textbox.
+2021-12-17 23:45:01 Reporter [INFO] Successfully enter 7263776612 in registration fee GL account textbox.
+2021-12-17 23:45:03 Reporter [INFO] Successfully clicked on save button.
+2021-12-17 23:45:04 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:45:04 Reporter [INFO] --------------------------------For form side---------------------------------------------------------------------------------
+2021-12-17 23:45:04 Reporter [INFO] Clicked on 'Plan' menu item.
+2021-12-17 23:45:05 Reporter [INFO] Clicked on 'Form' menu item.
+2021-12-17 23:45:31 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:45:32 Reporter [INFO] Payment tab clicked successfully
+2021-12-17 23:45:32 Reporter [INFO] Checkbox payment received checked
+2021-12-17 23:45:33 Reporter [INFO] Selected payment processing value
+2021-12-17 23:45:33 Reporter [INFO] Successfully clicked on 'Save' button.
+2021-12-17 23:45:33 Reporter [INFO] Preview Button clicked successfully
+2021-12-17 23:45:38 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:45:40 Reporter [INFO] Attendee type radio button selected
+2021-12-17 23:45:42 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:45:47 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:45:47 Reporter [INFO] Credit card radio button selected.
+2021-12-17 23:45:47 Reporter [INFO] value: 'Visa' is selected in card type dropdown.
+2021-12-17 23:45:47 Reporter [INFO] entered value 'abc' in textbox.
+2021-12-17 23:45:47 Reporter [INFO] entered value '4111111111111111' in textbox.
+2021-12-17 23:45:47 Reporter [INFO] value: '01' is selected in expiry month dropdown.
+2021-12-17 23:45:48 Reporter [INFO] value: '2023' is selected in expiry year dropdown.
+2021-12-17 23:45:48 Reporter [INFO] value: '123' number.
+2021-12-17 23:45:52 Reporter [INFO] Clicked on continue button.
+2021-12-17 23:45:52 Reporter [INFO] Payment details TEST-abc (Visa 1111)
+2021-12-17 23:45:52 Reporter [INFO] Payment information received successfully
+2021-12-17 23:45:54 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:45:54 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:45:54 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:45:54 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:45:54 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:45:54 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:45:54 Reporter [INFO] size of window handles 1
+2021-12-17 23:45:54 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:45:54 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:46:26 Reporter [INFO] ---------- false
+2021-12-17 23:46:31 Reporter [INFO] entered in this loop
+2021-12-17 23:46:31 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:46:31 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:46:31 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:46:32 Reporter [INFO] Clicked on Implementation drop Dwon
+2021-12-17 23:46:37 Reporter [INFO] Clicked on Products Dropdown Link
+2021-12-17 23:46:38 Reporter [DEBUG] Wait for page title to contains:Products | Certain
+2021-12-17 23:46:38 Reporter [INFO] Successfully clicked on 'Global compliance Module' checkbox.
+2021-12-17 23:46:39 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:46:39 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:46:39 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:46:39 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:46:39 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:46:39 Reporter [INFO] Products saved successfully
+2021-12-17 23:46:39 Reporter [INFO] Clicked on Registration drop Down
+2021-12-17 23:46:40 Reporter [INFO] Clicked on profile data drop Down
+2021-12-17 23:46:41 Reporter [INFO] Successfully clicked on 'Add New' button.
+2021-12-17 23:46:45 Reporter [INFO] Questions swicthed successfully to iframe
+2021-12-17 23:47:18 Reporter [INFO] Successfully selected value :Select in 'Question Type' dropdown.
+2021-12-17 23:47:20 Reporter [INFO] Successfully entered value RegistrantCountry in name textbox.
+2021-12-17 23:47:20 Reporter [INFO] Successfully entered value RegistrantCountry in code textbox.
+2021-12-17 23:47:21 Reporter [INFO] Successfully entered value RegistrantCountry in display reg form textbox.
+2021-12-17 23:47:21 Reporter [INFO] Successfully entered value not found in error message textbox.
+2021-12-17 23:47:21 Reporter [INFO] Successfully selected value: Russia USA from Question Answer dropdown.
+2021-12-17 23:47:23 Reporter [INFO] Save and close button clicked successfully
+2021-12-17 23:47:29 Reporter [INFO] Successfully clicked on 'Privacy compliance' tab.
+2021-12-17 23:47:31 Reporter [INFO] Successfully clicked on 'Russian Data Privacy.
+2021-12-17 23:47:32 Reporter [INFO] Successfully clicked on 'Add New' button.
+2021-12-17 23:47:35 Reporter [INFO] Successfully selected value: RDP in policy type dropdown.
+2021-12-17 23:47:35 Reporter [INFO] Successfully entered value: Test Config in config name textbox.
+2021-12-17 23:47:35 Reporter [INFO] Current date by no of days 25/12/2021
+2021-12-17 23:47:35 Reporter [INFO] Successfully clicked End date Calender.
+2021-12-17 23:47:35 Reporter [INFO] ----Date time value 25/12/2021
+2021-12-17 23:47:36 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //ul[not(contains(@style,'display: none'))]//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:47:38 Reporter [INFO] Selected Session Start Date : 25/12/2021
+2021-12-17 23:47:38 Reporter [INFO] Successfully clicked start date Calender.
+2021-12-17 23:47:38 Reporter [INFO] ----Date time value 17/12/2021
+2021-12-17 23:47:39 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //ul[not(contains(@style,'display: none'))]//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:47:42 Reporter [INFO] Selected Session Start Date : 17/12/2021
+2021-12-17 23:47:42 Reporter [INFO] Successfully selected value: OAuth 2.0 in service auth dropdown.
+2021-12-17 23:47:42 Reporter [INFO] Successfully entered value: https://datacomplianceservice.azurewebsites.net/api/contact/saveonlytorussia in service url textbox.
+2021-12-17 23:47:42 Reporter [INFO] Successfully entered value: ac9e8475-6522-41b8-9551-a3417faaa487 in client id textbox.
+2021-12-17 23:47:42 Reporter [INFO] Successfully entered value: +sd[5Y_97?6/srs:H1*fGqldb*W+8oGl in client secret textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully entered value: https://login.windows.net/microsoft.onmicrosoft.com/oauth2/token in token url textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully entered value: https://datacomplianceservice.azurewebsites.net/ in resource url textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully entered value: russia privacy wait msg data in wait message textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully entered value: Error found in data in service error message textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully entered value: GlobalCRMId in external id key textbox.
+2021-12-17 23:47:43 Reporter [INFO] Successfully clicked on 'Save Privacy' button.
+2021-12-17 23:47:45 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:47:45 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:47:45 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:47:46 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:47:46 Reporter [INFO] Privacy compliance saved successfullySuccess
+2021-12-17 23:47:46 Reporter [INFO] Selected trigger field value RegistrantCountry
+2021-12-17 23:47:46 Reporter [INFO] Selected trigger valueRussia
+2021-12-17 23:47:46 Reporter [INFO] Save event trigger button clicked
+2021-12-17 23:47:49 Reporter [INFO] Selected certain field value First Name
+2021-12-17 23:47:49 Reporter [INFO] Typed target value FirstName
+2021-12-17 23:47:49 Reporter [INFO] Selected certain field value Last Name
+2021-12-17 23:47:49 Reporter [INFO] Typed target value LastName
+2021-12-17 23:47:49 Reporter [INFO] Selected certain field value Email
+2021-12-17 23:47:49 Reporter [INFO] Typed target value Email
+2021-12-17 23:47:49 Reporter [INFO] Save field mapping button clicked
+2021-12-17 23:47:51 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:47:51 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:47:51 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:47:52 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:47:52 Reporter [INFO] Privacy compliance saved successfullySuccess
+2021-12-17 23:47:52 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:47:54 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:47:56 Reporter [INFO] Entered Event Code EFSSL1 in the search box
+2021-12-17 23:47:58 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:48:02 Reporter [INFO] Entered Event Code EFSSL1 is not found in event list
+2021-12-17 23:48:07 Reporter [INFO] Entered Value: Event for Stand Session Layout in 'Title' TextBox
+2021-12-17 23:48:07 Reporter [INFO] Entered Value: EFSSL1 in 'Event Code' TextBox
+2021-12-17 23:48:07 Reporter [INFO] 12/17/2021
+2021-12-17 23:48:07 Reporter [INFO] Entered Value: 12/17/2021 in 'Start Date' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Entered Value: 8:00 AM in 'Start Time' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Current date by no of days 12/22/2021
+2021-12-17 23:48:08 Reporter [INFO] Entered Value: 12/22/2021 in 'End Date' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Entered Value: 8:00 PM in 'End Time' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Account value is null
+2021-12-17 23:48:08 Reporter [INFO] Selected Value: Live in 'Status' dropdown
+2021-12-17 23:48:08 Reporter [INFO] Entered Value: No Notes in 'Notes' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Entered Value: 10 in 'Registration Inventory' TextBox
+2021-12-17 23:48:08 Reporter [INFO] Selected Value: $-US Dollar in 'Currency' dropdown
+2021-12-17 23:48:11 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:48:11 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:48:11 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:48:11 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:48:11 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:48:11 Reporter [INFO] Message displayed success
+2021-12-17 23:48:46 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:48:46 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:48:46 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:48:47 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:48:47 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:48:47 Reporter [INFO] Message displayed success
+2021-12-17 23:48:48 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:48:48 Reporter [INFO] Clicked on 'Plan' menu item.
+2021-12-17 23:48:49 Reporter [INFO] Clicked on 'Form' menu item.
+2021-12-17 23:49:08 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:49:23 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:49:23 Reporter [INFO] Preview Button clicked successfully
+2021-12-17 23:49:26 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:49:29 Reporter [INFO] Attendee type radio button selected
+2021-12-17 23:49:29 Reporter [INFO] Selected custom field value Russia
+2021-12-17 23:49:35 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:49:36 Reporter [INFO] Continue button clicked successfully
+2021-12-17 23:49:39 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:49:42 Reporter [INFO] Clicked on 'Reports/Analyze' Menu.
+2021-12-17 23:49:43 Reporter [INFO] Add Report button clicked successfully
+2021-12-17 23:49:43 Reporter [INFO] Entered value: Reg privacy report in 'Name' textbox.
+2021-12-17 23:49:43 Reporter [INFO] Entered value: Reg privacy report in 'Description' textbox.
+2021-12-17 23:49:43 Reporter [INFO] Show selected user checkbox checked successfully
+2021-12-17 23:49:43 Reporter [INFO] Allow access webservices checkbox checked successfully
+2021-12-17 23:49:45 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:49:47 Reporter [INFO] Columns tab clicked successfully
+2021-12-17 23:49:47 Reporter [INFO] Selected available data fields item Privacy Compliance Date
+2021-12-17 23:49:47 Reporter [INFO] Move right button clicked successfully
+2021-12-17 23:49:47 Reporter [INFO] Selected available data fields item Privacy Policy Type
+2021-12-17 23:49:47 Reporter [INFO] Move right button clicked successfully
+2021-12-17 23:49:47 Reporter [INFO] Selected available data fields item Privacy Entry Point
+2021-12-17 23:49:48 Reporter [INFO] Move right button clicked successfully
+2021-12-17 23:49:48 Reporter [INFO] Selected available data fields item Privacy External Server Id
+2021-12-17 23:49:48 Reporter [INFO] Move right button clicked successfully
+2021-12-17 23:49:49 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:49:49 Reporter [INFO] Clicked on Run Report button
+2021-12-17 23:49:55 Reporter [INFO] Registrant privacy compliant data
+2021-12-17 23:49:55 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:49:55 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:49:55 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:49:55 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:49:55 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:49:55 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:49:55 Reporter [INFO] size of window handles 2
+2021-12-17 23:49:57 Reporter [INFO] Worked and switched to latest tab or window
+2021-12-17 23:49:59 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:49:59 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:50:31 Reporter [INFO] ---------- false
+2021-12-17 23:50:36 Reporter [INFO] entered in this loop
+2021-12-17 23:50:36 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:50:36 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-17 23:50:37 Reporter [INFO] Exiting Tear Down.
+2021-12-17 23:50:39 Reporter [INFO] Tags link clicked successfully
+2021-12-17 23:50:43 Reporter [INFO] successfully entered value : Tag1 in tag search text box.
+2021-12-17 23:50:44 Reporter [INFO] Tag Search button clicked successfully
+2021-12-17 23:50:48 Reporter [INFO] Entered tag name value Tag1
+2021-12-17 23:50:48 Reporter [INFO] Entered tag label valueTag1
+2021-12-17 23:50:48 Reporter [INFO] Selected tag objects value Sessions
+2021-12-17 23:50:48 Reporter [INFO] Add tag button clicked successfully
+2021-12-17 23:50:50 Reporter [INFO] successfully entered value : Tag2 in tag search text box.
+2021-12-17 23:50:51 Reporter [INFO] Tag Search button clicked successfully
+2021-12-17 23:50:55 Reporter [INFO] Entered tag name value Tag2
+2021-12-17 23:50:55 Reporter [INFO] Entered tag label valueTag2
+2021-12-17 23:50:55 Reporter [INFO] Selected tag objects value Sessions,Agenda Items
+2021-12-17 23:50:55 Reporter [INFO] Selected tag objects value Sessions,Agenda Items
+2021-12-17 23:50:55 Reporter [INFO] Selected tag objects value Sessions,Agenda Items
+2021-12-17 23:50:55 Reporter [INFO] Add tag button clicked successfully
+2021-12-17 23:50:57 Reporter [INFO] successfully entered value : Tag3 in tag search text box.
+2021-12-17 23:50:57 Reporter [INFO] Tag Search button clicked successfully
+2021-12-17 23:51:02 Reporter [INFO] Entered tag name value Tag3
+2021-12-17 23:51:02 Reporter [INFO] Entered tag label valueTag3
+2021-12-17 23:51:02 Reporter [INFO] Selected tag objects value Sessions
+2021-12-17 23:51:02 Reporter [INFO] Add tag button clicked successfully
+2021-12-17 23:51:08 Reporter [INFO] New Industry added successfully
+2021-12-17 23:51:08 Reporter [INFO] New Industry added successfully
+2021-12-17 23:51:11 Reporter [INFO] Job function added successfully
+2021-12-17 23:51:12 Reporter [INFO] Job function added successfully
+2021-12-17 23:51:12 Reporter [INFO] Job function added successfully
+2021-12-17 23:51:18 Reporter [INFO] Clicked on Event Option
+2021-12-17 23:51:21 Reporter [INFO] Entered Event Code EFCSSC123 in the search box
+2021-12-17 23:51:23 Reporter [INFO] All Events dropdown value clicked successfully
+2021-12-17 23:52:02 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:52:02 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:52:02 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:52:02 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:52:02 Reporter [INFO] Message Displayed = Success
+2021-12-17 23:52:02 Reporter [INFO] Message displayed success
+2021-12-17 23:52:03 Reporter [INFO] Event dashboard link clicked successfully
+2021-12-17 23:52:05 Reporter [INFO] Double booking speaker id unchecked
+2021-12-17 23:52:06 Reporter [INFO] Save button clicked successfully
+2021-12-17 23:52:50 Reporter [INFO] Choose conference session clicked successfully
+2021-12-17 23:52:50 Reporter [INFO] Start Working link clicked successfully
+2021-12-17 23:52:52 Reporter [INFO] Session page displayed
+2021-12-17 23:53:35 Reporter [INFO] Successfully clicked on speaker tab.
+2021-12-17 23:53:39 Reporter [INFO] successfully entered value : Neha in search text box.
+2021-12-17 23:53:39 Reporter [INFO] Search button clicked successfully
+2021-12-17 23:53:41 Reporter [INFO] Add new button clicked successfully
+2021-12-17 23:53:44 Reporter [INFO] User Name is : Neha Goyal
+2021-12-17 23:53:44 Reporter [INFO] entered value Neha in first name text box.
+2021-12-17 23:53:44 Reporter [INFO] entered value Goyal in last name text box.
+2021-12-17 23:53:45 Reporter [INFO] click on speaker type dropdown button.
+2021-12-17 23:54:15 Reporter [INFO] Entered speaker type text value Internet
+2021-12-17 23:54:15 Reporter [INFO] Speaker Type add new button clicked successfully.
+2021-12-17 23:54:15 Reporter [INFO] Speaker Type button clicked.
+2021-12-17 23:54:15 Reporter [INFO] entered value Neha@gmail.com in email text box.
+2021-12-17 23:54:15 Reporter [INFO] entered value Neha Goyal in user name text box.
+2021-12-17 23:54:15 Reporter [INFO] entered value Neha in password text box.
+2021-12-17 23:54:15 Reporter [INFO] Speaker Save button clicked successfully.
+2021-12-17 23:54:18 Reporter [INFO] Successfully clicked on speaker tab.
+2021-12-17 23:54:20 Reporter [INFO] successfully entered value : Test1 in search text box.
+2021-12-17 23:54:20 Reporter [INFO] Search button clicked successfully
+2021-12-17 23:54:22 Reporter [INFO] Add new button clicked successfully
+2021-12-17 23:54:25 Reporter [INFO] User Name is : Test1 Test1
+2021-12-17 23:54:25 Reporter [INFO] entered value Test1 in first name text box.
+2021-12-17 23:54:25 Reporter [INFO] entered value Test1 in last name text box.
+2021-12-17 23:54:25 Reporter [INFO] click on speaker type dropdown button.
+2021-12-17 23:54:25 Reporter [INFO] Speaker type exist and clicked successfully.
+2021-12-17 23:54:25 Reporter [INFO] entered value Test1@gmail.com in email text box.
+2021-12-17 23:54:25 Reporter [INFO] entered value Test1 Test1 in user name text box.
+2021-12-17 23:54:25 Reporter [INFO] entered value Test1 in password text box.
+2021-12-17 23:54:25 Reporter [INFO] Speaker Save button clicked successfully.
+2021-12-17 23:54:28 Reporter [INFO] Successfully clicked on locations tab.
+2021-12-17 23:54:30 Reporter [INFO] successfully entered value : Loc1 in search text box.
+2021-12-17 23:54:30 Reporter [INFO] Search button clicked successfully
+2021-12-17 23:54:32 Reporter [INFO] Location's Add new button clicked successfully
+2021-12-17 23:54:34 Reporter [INFO] entered value Loc1 in location name text box.
+2021-12-17 23:54:35 Reporter [INFO] entered value Loc1 in location code text box.
+2021-12-17 23:54:35 Reporter [INFO] click on speaker type dropdown button.
+2021-12-17 23:54:35 Reporter [INFO] Location type exist and clicked successfully
+2021-12-17 23:54:35 Reporter [INFO] entered value 20 in location capacity text box.
+2021-12-17 23:54:35 Reporter [INFO] click on venue dropdown button.
+2021-12-17 23:54:35 Reporter [INFO] Entered venue text value Jaipur
+2021-12-17 23:54:35 Reporter [INFO] Venue add new button clicked successfully
+2021-12-17 23:54:35 Reporter [INFO] Venue button clicked
+2021-12-17 23:54:35 Reporter [INFO] Location Save button clicked successfully
+2021-12-17 23:54:38 Reporter [INFO] Successfully clicked on Setup tab.
+2021-12-17 23:54:41 Reporter [INFO] Successfully clicked on Session custom fields tab.
+2021-12-17 23:54:43 Reporter [INFO] Entered code value TextQues1 in the search box
+2021-12-17 23:54:43 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:54:45 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:54:53 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:54:53 Reporter [INFO] Selected field type value Text
+2021-12-17 23:54:53 Reporter [INFO] Entered field name value TextQues1
+2021-12-17 23:54:53 Reporter [INFO] Entered field code value TextQues1
+2021-12-17 23:54:53 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:54:55 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:54:55 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:54:55 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:54:56 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:54:56 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:54:56 Reporter [INFO] Entered code value TextAreaQues1 in the search box
+2021-12-17 23:54:56 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:54:58 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:55:05 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:55:05 Reporter [INFO] Selected field type value Textarea
+2021-12-17 23:55:05 Reporter [INFO] Entered field name value TextAreaQues1
+2021-12-17 23:55:05 Reporter [INFO] Entered field code value TextAreaQues1
+2021-12-17 23:55:06 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:55:08 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:55:08 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:55:08 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:55:08 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:55:08 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:55:08 Reporter [INFO] Entered code value RadioQues11 in the search box
+2021-12-17 23:55:08 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:55:10 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:55:17 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:55:18 Reporter [INFO] Selected field type value Radio
+2021-12-17 23:55:18 Reporter [INFO] Entered field name value RadioQues11
+2021-12-17 23:55:18 Reporter [INFO] Entered field code value RadioQues11
+2021-12-17 23:55:18 Reporter [INFO] In the loop for radio/checkbox,select,select multiple field type
+2021-12-17 23:55:21 Reporter [INFO] Typed field option name Red
+2021-12-17 23:55:21 Reporter [INFO] Typed field option value Red
+2021-12-17 23:55:21 Reporter [INFO] Typed field option code Red
+2021-12-17 23:55:27 Reporter [INFO] Typed field option name Blue
+2021-12-17 23:55:27 Reporter [INFO] Typed field option value Blue
+2021-12-17 23:55:27 Reporter [INFO] Typed field option code Blue
+2021-12-17 23:55:30 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:55:32 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:55:32 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:55:32 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:55:33 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:55:33 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:55:33 Reporter [INFO] Entered code value ChkQues1up in the search box
+2021-12-17 23:55:33 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:55:35 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:55:42 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:55:43 Reporter [INFO] Selected field type value Checkbox
+2021-12-17 23:55:43 Reporter [INFO] Entered field name value ChkQues1up
+2021-12-17 23:55:43 Reporter [INFO] Entered field code value ChkQues1up
+2021-12-17 23:55:43 Reporter [INFO] In the loop for radio/checkbox,select,select multiple field type
+2021-12-17 23:55:46 Reporter [INFO] Typed field option name GreenU
+2021-12-17 23:55:46 Reporter [INFO] Typed field option value GreenU
+2021-12-17 23:55:46 Reporter [INFO] Typed field option code GreenU
+2021-12-17 23:55:52 Reporter [INFO] Typed field option name YellowU
+2021-12-17 23:55:52 Reporter [INFO] Typed field option value YellowU
+2021-12-17 23:55:52 Reporter [INFO] Typed field option code YellowU
+2021-12-17 23:55:58 Reporter [INFO] Typed field option name OrangeU
+2021-12-17 23:55:59 Reporter [INFO] Typed field option value OrangeU
+2021-12-17 23:55:59 Reporter [INFO] Typed field option code OrangeU
+2021-12-17 23:56:02 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:56:04 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:56:04 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:56:04 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:56:04 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:56:04 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:56:04 Reporter [INFO] Entered code value SelQues1 in the search box
+2021-12-17 23:56:04 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:56:06 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:56:14 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:56:14 Reporter [INFO] Selected field type value Select
+2021-12-17 23:56:14 Reporter [INFO] Entered field name value SelQues1
+2021-12-17 23:56:14 Reporter [INFO] Entered field code value SelQues1
+2021-12-17 23:56:14 Reporter [INFO] In the loop for radio/checkbox,select,select multiple field type
+2021-12-17 23:56:17 Reporter [INFO] Typed field option name A
+2021-12-17 23:56:17 Reporter [INFO] Typed field option value A
+2021-12-17 23:56:17 Reporter [INFO] Typed field option code A
+2021-12-17 23:56:23 Reporter [INFO] Typed field option name B
+2021-12-17 23:56:23 Reporter [INFO] Typed field option value B
+2021-12-17 23:56:23 Reporter [INFO] Typed field option code B
+2021-12-17 23:56:26 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:56:28 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:56:28 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:56:28 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:56:29 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:56:29 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:56:29 Reporter [INFO] Entered code value SelMulQues1 in the search box
+2021-12-17 23:56:29 Reporter [INFO] Search button is clicked successfully.
+2021-12-17 23:56:31 Reporter [INFO] Successfully clicked on add custom fields button.
+2021-12-17 23:56:38 Reporter [INFO] Selected field class value SESSION
+2021-12-17 23:56:39 Reporter [INFO] Selected field type value Select Multiple
+2021-12-17 23:56:39 Reporter [INFO] Entered field name value SelMulQues1
+2021-12-17 23:56:39 Reporter [INFO] Entered field code value SelMulQues1
+2021-12-17 23:56:39 Reporter [INFO] In the loop for radio/checkbox,select,select multiple field type
+2021-12-17 23:56:42 Reporter [INFO] Typed field option name FS
+2021-12-17 23:56:42 Reporter [INFO] Typed field option value FS
+2021-12-17 23:56:42 Reporter [INFO] Typed field option code FS
+2021-12-17 23:56:48 Reporter [INFO] Typed field option name DM
+2021-12-17 23:56:48 Reporter [INFO] Typed field option value DM
+2021-12-17 23:56:48 Reporter [INFO] Typed field option code DM
+2021-12-17 23:56:54 Reporter [INFO] Typed field option name FR
+2021-12-17 23:56:55 Reporter [INFO] Typed field option value FR
+2021-12-17 23:56:55 Reporter [INFO] Typed field option code FR
+2021-12-17 23:57:01 Reporter [INFO] Typed field option name PK
+2021-12-17 23:57:01 Reporter [INFO] Typed field option value PK
+2021-12-17 23:57:01 Reporter [INFO] Typed field option code PK
+2021-12-17 23:57:07 Reporter [INFO] Typed field option name AR
+2021-12-17 23:57:07 Reporter [INFO] Typed field option value AR
+2021-12-17 23:57:07 Reporter [INFO] Typed field option code AR
+2021-12-17 23:57:10 Reporter [INFO] Successfully clicked on Custom field save button
+2021-12-17 23:57:13 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:57:13 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:57:13 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:57:13 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:57:13 Reporter [INFO] Custom field is added successfully
+2021-12-17 23:57:21 Reporter [INFO] Sessions tab clicked successfully
+2021-12-17 23:57:56 Reporter [INFO] Successfully clicked on Setup tab.
+2021-12-17 23:57:59 Reporter [INFO] Successfully clicked on Session layout tab.
+2021-12-17 23:58:12 Reporter [INFO] Successfully clicked on Existing custom fields button.
+2021-12-17 23:58:14 Reporter [INFO] Standard field element clicked
+2021-12-17 23:58:14 Reporter [INFO] Standard field element clicked
+2021-12-17 23:58:14 Reporter [INFO] Standard field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Custom field element clicked
+2021-12-17 23:58:15 Reporter [INFO] Standard and Custom fields are added successfully 
+2021-12-17 23:58:17 Reporter [DEBUG] Execute javascript: return $(document).find('[id=myonoffswitch]')[0].checked
+2021-12-17 23:58:17 Reporter [INFO] Icon status in starting false
+2021-12-17 23:58:17 Reporter [INFO] Successfully clicked on Publish for all checkbox.
+2021-12-17 23:58:17 Reporter [DEBUG] Execute javascript: return $(document).find('[id=myonoffswitch]')[0].checked
+2021-12-17 23:58:17 Reporter [INFO] Icon status in ending true
+2021-12-17 23:58:19 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-17 23:58:19 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-17 23:58:19 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-17 23:58:20 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-17 23:58:20 Reporter [INFO] Standard and custom fields are added successfully
+2021-12-17 23:58:23 Reporter [INFO] Successfully clicked on Session Industries tab.
+2021-12-17 23:58:27 Reporter [INFO] All industries are selected successfully
+2021-12-17 23:58:27 Reporter [INFO] All industries are saved successfully
+2021-12-17 23:58:28 Reporter [INFO] Successfully clicked on Session Job Functions tab.
+2021-12-17 23:58:33 Reporter [INFO] All job functions selected successfully
+2021-12-17 23:58:33 Reporter [INFO] All job functions saved successfully
+2021-12-17 23:58:34 Reporter [INFO] Sessions tab clicked successfully
+2021-12-17 23:58:41 Reporter [INFO] Successfully clicked on 'Add New Session' button.
+2021-12-17 23:58:43 Reporter [INFO] Entered Session Name value SessionInstanceView
+2021-12-17 23:58:43 Reporter [INFO] click on session type dropdown button.
+2021-12-17 23:58:43 Reporter [INFO] Session type exist and clicked successfully
+2021-12-17 23:58:43 Reporter [INFO] Entered Session Code value SessionInstanceView
+2021-12-17 23:58:43 Reporter [INFO] click on track dropdown button.
+2021-12-17 23:58:50 Reporter [INFO] Entered session track text value Track One
+2021-12-17 23:58:50 Reporter [INFO] Session Track add new button clicked successfully
+2021-12-17 23:58:50 Reporter [INFO] Session Track button clicked
+2021-12-17 23:58:50 Reporter [INFO] Selected tags values Tag1
+2021-12-17 23:58:50 Reporter [INFO] Selected tags values Tag2
+2021-12-17 23:58:50 Reporter [INFO] click on Session level dropdown button.
+2021-12-17 23:58:50 Reporter [INFO] Session level exist and clicked successfully
+2021-12-17 23:58:50 Reporter [INFO] Entered Points value 100
+2021-12-17 23:58:50 Reporter [INFO] Selected duration Hrs value 0
+2021-12-17 23:58:50 Reporter [INFO] Selected duration Minutes value 10
+2021-12-17 23:58:50 Reporter [INFO] Entered CEU Credits value 1
+2021-12-17 23:58:51 Reporter [INFO] Entered No of Instances value 1
+2021-12-17 23:58:51 Reporter [INFO] Abstract upload file button clicked successfully
+2021-12-17 23:58:51 Reporter [INFO] file path C:\Automation\CertainCompleteCoverage\trunk\target\test-classes\files\accountSettingsPage.docx
+2021-12-17 23:58:51 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('class', 'btn btn-info fileChooser')
+2021-12-17 23:58:55 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('style', 'display: block;')
+2021-12-17 23:58:56 Reporter [INFO] Entered iFrame value Abstract description test
+2021-12-17 23:58:56 Reporter [INFO] Entered abstract description value Abstract description test
+2021-12-17 23:58:56 Reporter [INFO] Session upload file button clicked successfully
+2021-12-17 23:58:56 Reporter [INFO] file path C:\Automation\CertainCompleteCoverage\trunk\target\test-classes\files\Session_Spec.docx
+2021-12-17 23:58:56 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('class', 'btn btn-info fileChooser')
+2021-12-17 23:59:13 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('style', 'display: block;')
+2021-12-17 23:59:14 Reporter [INFO] Entered iFrame value Session description test
+2021-12-17 23:59:14 Reporter [INFO] Entered session description value Session description test
+2021-12-17 23:59:15 Reporter [INFO] Entered Notes value Test new session
+2021-12-17 23:59:15 Reporter [INFO] Entered Session label value Test session
+2021-12-17 23:59:15 Reporter [INFO] Entered No of Instances value 4
+2021-12-17 23:59:15 Reporter [INFO] 17/12/2021
+2021-12-17 23:59:15 Reporter [INFO] Current date by no of days 17/12/2021
+2021-12-17 23:59:15 Reporter [INFO] Current date by no of days 05/12/2022
+2021-12-17 23:59:15 Reporter [INFO] ----Date time value 05/12/2022
+2021-12-17 23:59:16 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //div[@class='instance-edit']//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:59:18 Reporter [INFO] Selected Session Start Date : 05/12/2022
+2021-12-17 23:59:18 Reporter [INFO] Start time from sheet is : 11:15 PM
+2021-12-17 23:59:18 Reporter [INFO] Start time meridian from sheet is :  PM
+2021-12-17 23:59:21 Reporter [INFO] Entered Value: 11:15 PM in 'Start Time' TextBox
+2021-12-17 23:59:21 Reporter [INFO] Selected Location value Loc1 (20)
+2021-12-17 23:59:21 Reporter [INFO] Entered Instance capacity value 20
+2021-12-17 23:59:21 Reporter [INFO] Entered Instance WaitList Limit value 5
+2021-12-17 23:59:21 Reporter [INFO] Unchecked override capacity checkbox
+2021-12-17 23:59:21 Reporter [INFO] New Time value after adding 11:25 PM
+2021-12-17 23:59:21 Reporter [INFO] Current date by no of days 05/12/2022
+2021-12-17 23:59:21 Reporter [INFO] ----Date time value 05/12/2022
+2021-12-17 23:59:22 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //div[@class='instance-edit']//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:59:25 Reporter [INFO] Selected Session Start Date : 05/12/2022
+2021-12-17 23:59:25 Reporter [INFO] Start time from sheet is : 11:25 PM
+2021-12-17 23:59:25 Reporter [INFO] Start time meridian from sheet is :  PM
+2021-12-17 23:59:27 Reporter [INFO] Entered Value: 11:25 PM in 'Start Time' TextBox
+2021-12-17 23:59:27 Reporter [INFO] Selected Location value Loc1 (20)
+2021-12-17 23:59:27 Reporter [INFO] Entered Instance capacity value 20
+2021-12-17 23:59:28 Reporter [INFO] Entered Instance WaitList Limit value 5
+2021-12-17 23:59:28 Reporter [INFO] Unchecked override capacity checkbox
+2021-12-17 23:59:28 Reporter [INFO] New Time value after adding 11:35 PM
+2021-12-17 23:59:28 Reporter [INFO] Current date by no of days 05/12/2022
+2021-12-17 23:59:28 Reporter [INFO] ----Date time value 05/12/2022
+2021-12-17 23:59:29 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //div[@class='instance-edit']//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:59:31 Reporter [INFO] Selected Session Start Date : 05/12/2022
+2021-12-17 23:59:31 Reporter [INFO] Start time from sheet is : 11:35 PM
+2021-12-17 23:59:31 Reporter [INFO] Start time meridian from sheet is :  PM
+2021-12-17 23:59:34 Reporter [INFO] Entered Value: 11:35 PM in 'Start Time' TextBox
+2021-12-17 23:59:34 Reporter [INFO] Selected Location value Loc1 (20)
+2021-12-17 23:59:34 Reporter [INFO] Entered Instance capacity value 20
+2021-12-17 23:59:34 Reporter [INFO] Entered Instance WaitList Limit value 5
+2021-12-17 23:59:34 Reporter [INFO] Unchecked override capacity checkbox
+2021-12-17 23:59:34 Reporter [INFO] New Time value after adding 11:45 PM
+2021-12-17 23:59:34 Reporter [INFO] Current date by no of days 05/12/2022
+2021-12-17 23:59:34 Reporter [INFO] ----Date time value 05/12/2022
+2021-12-17 23:59:35 Reporter [INFO] ----------[[ChromeDriver: chrome on WINDOWS (6ae77190bad6d184e19213393e396a99)] -> xpath: //div[@class='instance-edit']//table[@role='grid']//tbody/tr/td[@class='text-center ng-scope']]
+2021-12-17 23:59:38 Reporter [INFO] Selected Session Start Date : 05/12/2022
+2021-12-17 23:59:38 Reporter [INFO] Start time from sheet is : 11:45 PM
+2021-12-17 23:59:38 Reporter [INFO] Start time meridian from sheet is :  PM
+2021-12-17 23:59:40 Reporter [INFO] Entered Value: 11:45 PM in 'Start Time' TextBox
+2021-12-17 23:59:40 Reporter [INFO] Selected Location value Loc1 (20)
+2021-12-17 23:59:41 Reporter [INFO] Entered Instance capacity value 20
+2021-12-17 23:59:41 Reporter [INFO] Entered Instance WaitList Limit value 5
+2021-12-17 23:59:41 Reporter [INFO] Unchecked override capacity checkbox
+2021-12-17 23:59:41 Reporter [INFO] Selected select custom field value A
+2021-12-17 23:59:41 Reporter [INFO] Selected input custom field value Text
+2021-12-17 23:59:41 Reporter [INFO] Selected multi select custom field value FS
+2021-12-17 23:59:41 Reporter [INFO] Entered Text area value texggyfy in the TextAreaQues1
+2021-12-17 23:59:41 Reporter [INFO] Entered text area custom field value texggyfy
+2021-12-17 23:59:41 Reporter [INFO] Selected select custom field value Red
+2021-12-17 23:59:41 Reporter [INFO] Selected multi select custom field value GreenU
+2021-12-17 23:59:42 Reporter [INFO] Session Save button clicked successfully
+2021-12-17 23:59:47 Reporter [INFO] <a target="_blank" href=screenshots/testUCSessionsAndAssignSession_2021_17_12_23_59_47_471.png> <img align="left" width="20%" src="screenshots/testUCSessionsAndAssignSession_2021_17_12_23_59_47_471.png" alt="Screenshot" /> </a> testUCSessionsAndAssignSession_2021_17_12_23_59_47_471
+2021-12-17 23:59:47 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-17 23:59:47 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-17 23:59:47 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-17 23:59:47 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-17 23:59:47 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-17 23:59:47 Reporter [INFO] Inside Tear Down.
+2021-12-17 23:59:47 Reporter [INFO] size of window handles 1
+2021-12-17 23:59:47 Reporter [INFO] Scrolling up till the top of the page
+2021-12-17 23:59:47 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true

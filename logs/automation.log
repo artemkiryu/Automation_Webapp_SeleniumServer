@@ -1,0 +1,223 @@
+2022-09-27 16:54:52 Reporter [INFO] Open the Admin Web App
+2022-09-27 16:54:52 Reporter [INFO] Get the Data From Excel File for Login
+2022-09-27 16:54:53 Reporter [INFO] Entering UserName : neha@gmail.com
+2022-09-27 16:54:53 Reporter [INFO] Entering Password : ********
+2022-09-27 16:54:53 Reporter [INFO] Click on Login Button
+2022-09-27 16:54:56 Reporter [INFO] Dashboard page title found
+2022-09-27 16:55:10 Reporter [INFO] Clicked on Sub Accounts Link
+2022-09-27 16:55:12 Reporter [INFO] Switched to account frame successfully
+2022-09-27 16:55:19 Reporter [INFO] Selected parentAccount = A1661519000669
+2022-09-27 16:55:20 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 16:55:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 16:55:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 16:55:20 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 16:55:20 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 16:55:20 Reporter [INFO] Inside Tear Down.
+2022-09-27 16:55:20 Reporter [INFO] size of window handles 1
+2022-09-27 16:55:20 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 16:55:20 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 16:55:20 Reporter [INFO] ---------- true
+2022-09-27 16:55:20 Reporter [INFO] Exiting Tear Down.
+2022-09-27 16:55:22 Reporter [INFO] Clicked on Event Option
+2022-09-27 16:55:24 Reporter [INFO] Entered Event Code efisTest1 in the search box
+2022-09-27 16:55:26 Reporter [INFO] All Events dropdown value clicked successfully
+2022-09-27 16:55:30 Reporter [INFO] Entered Event Code efisTest1 is not found in event list
+2022-09-27 16:55:36 Reporter [INFO] Entered Value: Event for import sessions in 'Title' TextBox
+2022-09-27 16:55:36 Reporter [INFO] Entered Value: efisTest1 in 'Event Code' TextBox
+2022-09-27 16:55:36 Reporter [INFO] 09/27/2022
+2022-09-27 16:55:36 Reporter [INFO] Entered Value: 09/27/2022 in 'Start Date' TextBox
+2022-09-27 16:55:36 Reporter [INFO] Entered Value: 8:00 AM in 'Start Time' TextBox
+2022-09-27 16:55:36 Reporter [INFO] Current date by no of days 10/02/2022
+2022-09-27 16:55:37 Reporter [INFO] Entered Value: 10/02/2022 in 'End Date' TextBox
+2022-09-27 16:55:37 Reporter [INFO] Entered Value: 8:00 PM in 'End Time' TextBox
+2022-09-27 16:55:37 Reporter [INFO] Account value is null
+2022-09-27 16:55:37 Reporter [INFO] Selected Value: Live in 'Status' dropdown
+2022-09-27 16:55:37 Reporter [INFO] Entered Value: No Notes in 'Notes' TextBox
+2022-09-27 16:55:37 Reporter [INFO] Entered Value: 10 in 'Registration Inventory' TextBox
+2022-09-27 16:55:37 Reporter [INFO] Selected Value: $-US Dollar in 'Currency' dropdown
+2022-09-27 16:55:41 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2022-09-27 16:55:41 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2022-09-27 16:55:41 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2022-09-27 16:55:42 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2022-09-27 16:55:42 Reporter [INFO] Message Displayed = Success
+2022-09-27 16:55:42 Reporter [INFO] Message displayed success
+2022-09-27 16:57:10 Reporter [INFO] Alert Present
+2022-09-27 16:57:11 Reporter [INFO] <a target="_blank" href=screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_16_57_11_221.png> <img align="left" width="20%" src="screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_16_57_11_221.png" alt="Screenshot" /> </a> testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_16_57_11_221
+2022-09-27 16:57:11 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 16:57:11 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 16:57:11 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 16:57:11 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 16:57:11 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 16:57:11 Reporter [INFO] Inside Tear Down.
+2022-09-27 16:57:11 Reporter [INFO] size of window handles 1
+2022-09-27 16:57:11 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 16:57:11 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 16:57:43 Reporter [INFO] ---------- false
+2022-09-27 16:57:47 Reporter [INFO] entered in this loop
+2022-09-27 16:57:47 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 16:57:47 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 16:57:48 Reporter [INFO] Exiting Tear Down.
+2022-09-27 16:58:07 Reporter [INFO] Open the Admin Web App
+2022-09-27 16:58:07 Reporter [INFO] Get the Data From Excel File for Login
+2022-09-27 16:58:07 Reporter [INFO] Entering UserName : neha@gmail.com
+2022-09-27 16:58:08 Reporter [INFO] Entering Password : ********
+2022-09-27 16:58:08 Reporter [INFO] Click on Login Button
+2022-09-27 16:58:09 Reporter [INFO] Dashboard page title found
+2022-09-27 16:58:21 Reporter [INFO] Clicked on Sub Accounts Link
+2022-09-27 16:58:22 Reporter [INFO] Switched to account frame successfully
+2022-09-27 16:58:30 Reporter [INFO] Selected parentAccount = A1661519000669
+2022-09-27 16:58:31 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 16:58:31 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 16:58:31 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 16:58:31 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 16:58:31 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 16:58:31 Reporter [INFO] Inside Tear Down.
+2022-09-27 16:58:31 Reporter [INFO] size of window handles 1
+2022-09-27 16:58:31 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 16:58:31 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 16:58:31 Reporter [INFO] ---------- true
+2022-09-27 16:58:31 Reporter [INFO] Exiting Tear Down.
+2022-09-27 16:58:33 Reporter [INFO] Clicked on Event Option
+2022-09-27 16:58:35 Reporter [INFO] Entered Event Code efisTest1 in the search box
+2022-09-27 16:58:37 Reporter [INFO] All Events dropdown value clicked successfully
+2022-09-27 16:59:15 Reporter [INFO] Alert Present
+2022-09-27 16:59:18 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2022-09-27 16:59:18 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2022-09-27 16:59:18 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2022-09-27 16:59:19 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2022-09-27 16:59:19 Reporter [INFO] Message Displayed = Success
+2022-09-27 16:59:19 Reporter [INFO] Message displayed success
+2022-09-27 16:59:20 Reporter [INFO] Event dashboard link clicked successfully
+2022-09-27 16:59:57 Reporter [INFO] Choose conference session clicked successfully
+2022-09-27 16:59:57 Reporter [INFO] Start Working link clicked successfully
+2022-09-27 16:59:59 Reporter [INFO] Session page displayed
+2022-09-27 16:59:59 Reporter [INFO] Import button clicked successfully
+2022-09-27 17:01:01 Reporter [INFO] <a target="_blank" href=screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_01_01_594.png> <img align="left" width="20%" src="screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_01_01_594.png" alt="Screenshot" /> </a> testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_01_01_594
+2022-09-27 17:01:01 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 17:01:01 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 17:01:01 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 17:01:01 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 17:01:01 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 17:01:01 Reporter [INFO] Inside Tear Down.
+2022-09-27 17:01:01 Reporter [INFO] size of window handles 1
+2022-09-27 17:01:01 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:01:01 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:01:33 Reporter [INFO] ---------- false
+2022-09-27 17:01:37 Reporter [INFO] entered in this loop
+2022-09-27 17:01:37 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:01:37 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:01:38 Reporter [INFO] Exiting Tear Down.
+2022-09-27 17:02:36 Reporter [INFO] Open the Admin Web App
+2022-09-27 17:02:36 Reporter [INFO] Get the Data From Excel File for Login
+2022-09-27 17:02:37 Reporter [INFO] Entering UserName : neha@gmail.com
+2022-09-27 17:02:37 Reporter [INFO] Entering Password : ********
+2022-09-27 17:02:37 Reporter [INFO] Click on Login Button
+2022-09-27 17:02:39 Reporter [INFO] Dashboard page title found
+2022-09-27 17:02:50 Reporter [INFO] Clicked on Sub Accounts Link
+2022-09-27 17:02:51 Reporter [INFO] Switched to account frame successfully
+2022-09-27 17:02:58 Reporter [INFO] Selected parentAccount = A1661519000669
+2022-09-27 17:02:58 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 17:02:58 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 17:02:58 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 17:02:58 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 17:02:58 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 17:02:58 Reporter [INFO] Inside Tear Down.
+2022-09-27 17:02:58 Reporter [INFO] size of window handles 1
+2022-09-27 17:02:58 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:02:58 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:02:59 Reporter [INFO] ---------- true
+2022-09-27 17:02:59 Reporter [INFO] Exiting Tear Down.
+2022-09-27 17:03:01 Reporter [INFO] Clicked on Event Option
+2022-09-27 17:03:03 Reporter [INFO] Entered Event Code efisTest1 in the search box
+2022-09-27 17:03:05 Reporter [INFO] All Events dropdown value clicked successfully
+2022-09-27 17:03:44 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2022-09-27 17:03:44 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2022-09-27 17:03:44 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2022-09-27 17:03:45 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2022-09-27 17:03:45 Reporter [INFO] Message Displayed = Success
+2022-09-27 17:03:45 Reporter [INFO] Message displayed success
+2022-09-27 17:03:46 Reporter [INFO] Event dashboard link clicked successfully
+2022-09-27 17:04:21 Reporter [INFO] Session page displayed
+2022-09-27 17:04:22 Reporter [INFO] Import button clicked successfully
+2022-09-27 17:04:24 Reporter [INFO] Next Button is clicked SuccessFully
+2022-09-27 17:04:24 Reporter [INFO] file path C:\Automation\CertainCompleteCoverage\trunk\target\test-classes\files\Import Session With Mandatory Fields.xlsx
+2022-09-27 17:04:24 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('class', 'btn btn-info fileChooser')
+2022-09-27 17:04:30 Reporter [INFO] Complete Session Import Button is clicked SuccessFully
+2022-09-27 17:04:30 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2022-09-27 17:04:30 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2022-09-27 17:04:30 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2022-09-27 17:04:31 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2022-09-27 17:04:31 Reporter [INFO] File imported successfully
+2022-09-27 17:04:58 Reporter [INFO]   Your scheduled Conference Session Import completed at: [Tue Sep 27 04:34:08 PDT 2022] Time to complete import: [189 milliseconds] [1] rows successfully imported. If you have any further questions, please contact Product Support at help@certain.com Thank you!  
+2022-09-27 17:05:02 Reporter [INFO] File imported successfully with mail
+2022-09-27 17:05:05 Reporter [INFO] Entered session code value ImportSessMandatory in the search box
+2022-09-27 17:05:06 Reporter [INFO] Sessions search button clicked successfully
+2022-09-27 17:05:08 Reporter [INFO] Session edited successfully by code ImportSessMandatory
+2022-09-27 17:05:10 Reporter [INFO] Edit Session page displayed
+2022-09-27 17:05:10 Reporter [INFO] Actual standard fields [ImportSessMandatory, ImportSessMandatory, Keynotes]matched with expected standard fields [ImportSessMandatory, ImportSessMandatory, Keynotes]
+2022-09-27 17:05:10 Reporter [INFO] Session Cancel button clicked successfully
+2022-09-27 17:05:12 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 17:05:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 17:05:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 17:05:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 17:05:12 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 17:05:12 Reporter [INFO] Inside Tear Down.
+2022-09-27 17:05:12 Reporter [INFO] size of window handles 1
+2022-09-27 17:05:12 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:05:12 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:05:15 Reporter [INFO] ---------- false
+2022-09-27 17:05:19 Reporter [INFO] entered in this loop
+2022-09-27 17:05:19 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:05:19 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:05:20 Reporter [INFO] Exiting Tear Down.
+2022-09-27 17:07:22 Reporter [INFO] Open the Admin Web App
+2022-09-27 17:07:22 Reporter [INFO] Get the Data From Excel File for Login
+2022-09-27 17:07:23 Reporter [INFO] Entering UserName : neha@gmail.com
+2022-09-27 17:07:23 Reporter [INFO] Entering Password : ********
+2022-09-27 17:07:23 Reporter [INFO] Click on Login Button
+2022-09-27 17:07:24 Reporter [INFO] Dashboard page title found
+2022-09-27 17:07:35 Reporter [INFO] Clicked on Sub Accounts Link
+2022-09-27 17:07:36 Reporter [INFO] Switched to account frame successfully
+2022-09-27 17:07:43 Reporter [INFO] Selected parentAccount = A1661519000669
+2022-09-27 17:07:44 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 17:07:44 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 17:07:44 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 17:07:44 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 17:07:44 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 17:07:44 Reporter [INFO] Inside Tear Down.
+2022-09-27 17:07:44 Reporter [INFO] size of window handles 1
+2022-09-27 17:07:44 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:07:44 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:07:44 Reporter [INFO] ---------- true
+2022-09-27 17:07:44 Reporter [INFO] Exiting Tear Down.
+2022-09-27 17:07:45 Reporter [INFO] Clicked on Event Option
+2022-09-27 17:07:47 Reporter [INFO] Entered Event Code efisTest1 in the search box
+2022-09-27 17:07:49 Reporter [INFO] All Events dropdown value clicked successfully
+2022-09-27 17:08:30 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2022-09-27 17:08:30 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2022-09-27 17:08:30 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2022-09-27 17:08:30 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2022-09-27 17:08:30 Reporter [INFO] Message Displayed = Success
+2022-09-27 17:08:30 Reporter [INFO] Message displayed success
+2022-09-27 17:08:31 Reporter [INFO] Event dashboard link clicked successfully
+2022-09-27 17:09:07 Reporter [INFO] Session page displayed
+2022-09-27 17:09:07 Reporter [INFO] Import button clicked successfully
+2022-09-27 17:09:09 Reporter [INFO] Next Button is clicked SuccessFully
+2022-09-27 17:09:09 Reporter [INFO] file path C:\Automation\CertainCompleteCoverage\trunk\target\test-classes\files\Import Session With Mandatory Fields.xlsx
+2022-09-27 17:09:09 Reporter [DEBUG] Execute javascript: arguments[0].setAttribute('class', 'btn btn-info fileChooser')
+2022-09-27 17:09:12 Reporter [INFO] -------Session Name*
+2022-09-27 17:09:12 Reporter [INFO] <a target="_blank" href=screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_09_12_225.png> <img align="left" width="20%" src="screenshots/testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_09_12_225.png" alt="Screenshot" /> </a> testImportSessionWithMandatoryFieldsSQA8104_2022_27_09_17_09_12_225
+2022-09-27 17:09:12 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-27 17:09:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-27 17:09:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-27 17:09:12 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-27 17:09:12 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-27 17:09:12 Reporter [INFO] Inside Tear Down.
+2022-09-27 17:09:12 Reporter [INFO] size of window handles 1
+2022-09-27 17:09:12 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:09:12 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:09:15 Reporter [INFO] ---------- false
+2022-09-27 17:09:19 Reporter [INFO] entered in this loop
+2022-09-27 17:09:19 Reporter [INFO] Scrolling up till the top of the page
+2022-09-27 17:09:19 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2022-09-27 17:09:21 Reporter [INFO] Exiting Tear Down.

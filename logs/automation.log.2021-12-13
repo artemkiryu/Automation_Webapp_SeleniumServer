@@ -1,0 +1,262 @@
+2021-12-13 17:27:53 Reporter [INFO] Open the Admin Web App
+2021-12-13 17:27:53 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 17:27:53 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 17:27:55 Reporter [INFO] Entering Password : ********
+2021-12-13 17:27:57 Reporter [INFO] Click on Login Button
+2021-12-13 17:27:59 Reporter [INFO] Dashboard page title found
+2021-12-13 17:28:03 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 17:28:03 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 17:28:03 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 17:28:03 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 17:28:03 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 17:28:04 Reporter [INFO] Inside Tear Down.
+2021-12-13 17:28:04 Reporter [INFO] size of window handles 1
+2021-12-13 17:28:04 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 17:28:04 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 17:28:10 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 17:28:10 Reporter [INFO] Exiting Tear Down.
+2021-12-13 17:28:14 Reporter [INFO] <a target="_blank" href=screenshots/testSearchSubAccountAndCreateEvent_2021_13_12_17_28_14_151.png> <img align="left" width="20%" src="screenshots/testSearchSubAccountAndCreateEvent_2021_13_12_17_28_14_151.png" alt="Screenshot" /> </a> testSearchSubAccountAndCreateEvent_2021_13_12_17_28_14_151
+2021-12-13 17:28:14 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 17:28:14 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 17:28:14 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 17:28:14 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 17:28:14 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 17:28:14 Reporter [INFO] Inside Tear Down.
+2021-12-13 17:28:14 Reporter [INFO] size of window handles 1
+2021-12-13 17:28:15 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 17:28:15 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 17:28:20 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 17:28:20 Reporter [INFO] Exiting Tear Down.
+2021-12-13 17:34:46 Reporter [INFO] Open the Admin Web App
+2021-12-13 17:34:46 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 17:34:47 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 17:34:48 Reporter [INFO] Entering Password : ********
+2021-12-13 17:34:48 Reporter [INFO] Click on Login Button
+2021-12-13 17:34:49 Reporter [INFO] Dashboard page title found
+2021-12-13 17:34:52 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 17:34:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 17:34:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 17:34:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 17:34:52 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 17:34:52 Reporter [INFO] Inside Tear Down.
+2021-12-13 17:34:52 Reporter [INFO] size of window handles 1
+2021-12-13 17:34:52 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 17:34:52 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 17:34:56 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 17:34:56 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 17:34:58 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:09:58 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:09:58 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:09:58 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:10:00 Reporter [INFO] Entering Password : ********
+2021-12-13 20:10:02 Reporter [INFO] Click on Login Button
+2021-12-13 20:10:04 Reporter [INFO] Dashboard page title found
+2021-12-13 20:10:08 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:10:08 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:10:08 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:10:08 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:10:08 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:10:09 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:10:09 Reporter [INFO] size of window handles 1
+2021-12-13 20:10:10 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:10:10 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:10:15 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:10:15 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:11:37 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:11:37 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:11:38 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:11:40 Reporter [INFO] Entering Password : ********
+2021-12-13 20:11:42 Reporter [INFO] Click on Login Button
+2021-12-13 20:11:45 Reporter [INFO] Dashboard page title found
+2021-12-13 20:11:50 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:11:50 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:11:50 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:11:50 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:11:50 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:11:50 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:11:50 Reporter [INFO] size of window handles 1
+2021-12-13 20:11:51 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:11:51 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:11:56 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:11:56 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:28:38 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:28:38 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:28:39 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:28:41 Reporter [INFO] Entering Password : ********
+2021-12-13 20:28:43 Reporter [INFO] Click on Login Button
+2021-12-13 20:28:45 Reporter [INFO] Dashboard page title found
+2021-12-13 20:28:49 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:28:49 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:28:49 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:28:49 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:28:49 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:28:49 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:28:49 Reporter [INFO] size of window handles 1
+2021-12-13 20:28:50 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:28:50 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:28:55 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:28:55 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:35:10 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:35:10 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:35:11 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:35:13 Reporter [INFO] Entering Password : ********
+2021-12-13 20:35:15 Reporter [INFO] Click on Login Button
+2021-12-13 20:35:17 Reporter [INFO] Dashboard page title found
+2021-12-13 20:35:21 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:35:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:35:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:35:21 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:35:21 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:35:22 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:35:22 Reporter [INFO] size of window handles 1
+2021-12-13 20:35:23 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:35:23 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:35:28 Reporter [INFO] ---------- false
+2021-12-13 20:35:33 Reporter [INFO] entered in this loop
+2021-12-13 20:35:33 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:35:33 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:41:15 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:41:15 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:41:16 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:41:18 Reporter [INFO] Entering Password : ********
+2021-12-13 20:41:20 Reporter [INFO] Click on Login Button
+2021-12-13 20:41:22 Reporter [INFO] Dashboard page title found
+2021-12-13 20:41:26 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:41:26 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:41:26 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:41:26 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:41:26 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:41:26 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:41:27 Reporter [INFO] size of window handles 1
+2021-12-13 20:41:27 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:41:27 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:41:33 Reporter [INFO] ---------- false
+2021-12-13 20:41:38 Reporter [INFO] entered in this loop
+2021-12-13 20:41:38 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:41:38 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:42:35 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:42:35 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:42:36 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:42:37 Reporter [INFO] Entering Password : ********
+2021-12-13 20:42:39 Reporter [INFO] Click on Login Button
+2021-12-13 20:42:42 Reporter [INFO] Dashboard page title found
+2021-12-13 20:43:40 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:43:40 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:43:40 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:43:42 Reporter [INFO] Entering Password : ********
+2021-12-13 20:43:44 Reporter [INFO] Click on Login Button
+2021-12-13 20:43:46 Reporter [INFO] Dashboard page title found
+2021-12-13 20:43:52 Reporter [INFO] <a target="_blank" href=screenshots/testLoginIntoWebApp_2021_13_12_20_43_52_886.png> <img align="left" width="20%" src="screenshots/testLoginIntoWebApp_2021_13_12_20_43_52_886.png" alt="Screenshot" /> </a> testLoginIntoWebApp_2021_13_12_20_43_52_886
+2021-12-13 20:43:52 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:43:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:43:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:43:52 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:43:52 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:43:53 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:43:53 Reporter [INFO] size of window handles 1
+2021-12-13 20:43:54 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:43:54 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:43:59 Reporter [INFO] ---------- false
+2021-12-13 20:44:05 Reporter [INFO] entered in this loop
+2021-12-13 20:44:05 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:44:05 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:45:05 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:45:07 Reporter [INFO] <a target="_blank" href=screenshots/testLoginIntoWebApp_2021_13_12_20_45_07_964.png> <img align="left" width="20%" src="screenshots/testLoginIntoWebApp_2021_13_12_20_45_07_964.png" alt="Screenshot" /> </a> testLoginIntoWebApp_2021_13_12_20_45_07_964
+2021-12-13 20:45:07 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:45:07 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:45:07 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:45:07 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:45:07 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:45:08 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:45:08 Reporter [INFO] size of window handles 1
+2021-12-13 20:45:09 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:45:09 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:45:42 Reporter [INFO] ---------- false
+2021-12-13 20:45:47 Reporter [INFO] entered in this loop
+2021-12-13 20:45:47 Reporter [INFO] Not able to reach Account Settings Page due to some technical error, Subsequent test cases will not be run.
+2021-12-13 20:45:47 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:50:26 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:50:26 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:50:26 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:50:29 Reporter [INFO] Entering Password : ********
+2021-12-13 20:50:31 Reporter [INFO] Click on Login Button
+2021-12-13 20:50:33 Reporter [INFO] Dashboard page title found
+2021-12-13 20:50:37 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:50:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:50:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:50:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:50:37 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:50:37 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:50:38 Reporter [INFO] size of window handles 1
+2021-12-13 20:50:38 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:50:38 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:50:44 Reporter [INFO] ---------- false
+2021-12-13 20:50:49 Reporter [INFO] entered in this loop
+2021-12-13 20:50:49 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:50:49 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:50:54 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:50:56 Reporter [INFO] Clicked on Sub Accounts Link
+2021-12-13 20:50:57 Reporter [INFO] Account Name : A1639118522676
+2021-12-13 20:50:57 Reporter [INFO] Account Code : A1639118522676
+2021-12-13 20:50:59 Reporter [INFO] Switched to account frame successfully
+2021-12-13 20:51:09 Reporter [INFO] Selected parentAccount = A1639118522676
+2021-12-13 20:51:10 Reporter [INFO] <a target="_blank" href=screenshots/testSearchSubAccountAndCreateEvent_2021_13_12_20_51_10_520.png> <img align="left" width="20%" src="screenshots/testSearchSubAccountAndCreateEvent_2021_13_12_20_51_10_520.png" alt="Screenshot" /> </a> testSearchSubAccountAndCreateEvent_2021_13_12_20_51_10_520
+2021-12-13 20:51:10 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:51:10 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:51:10 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:51:10 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:51:10 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:51:10 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:51:10 Reporter [INFO] size of window handles 1
+2021-12-13 20:51:11 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:51:11 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:51:14 Reporter [INFO] ---------- true
+2021-12-13 20:51:16 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:52:25 Reporter [INFO] Open the Admin Web App
+2021-12-13 20:52:26 Reporter [INFO] Get the Data From Excel File for Login
+2021-12-13 20:52:26 Reporter [INFO] Entering UserName : certain.testautomation@gmail.com
+2021-12-13 20:52:28 Reporter [INFO] Entering Password : ********
+2021-12-13 20:52:30 Reporter [INFO] Click on Login Button
+2021-12-13 20:52:32 Reporter [INFO] Dashboard page title found
+2021-12-13 20:52:37 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:52:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:52:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:52:37 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:52:37 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:52:37 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:52:38 Reporter [INFO] size of window handles 1
+2021-12-13 20:52:38 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:52:38 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:52:44 Reporter [INFO] ---------- false
+2021-12-13 20:52:49 Reporter [INFO] entered in this loop
+2021-12-13 20:52:49 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:52:49 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:52:54 Reporter [INFO] Exiting Tear Down.
+2021-12-13 20:52:55 Reporter [INFO] Clicked on Sub Accounts Link
+2021-12-13 20:52:56 Reporter [INFO] Account Name : A1639118522676
+2021-12-13 20:52:56 Reporter [INFO] Account Code : A1639118522676
+2021-12-13 20:52:58 Reporter [INFO] Switched to account frame successfully
+2021-12-13 20:53:09 Reporter [INFO] Selected parentAccount = A1639118522676
+2021-12-13 20:53:17 Reporter [INFO] Clicked on Implementation drop Dwon
+2021-12-13 20:53:26 Reporter [INFO] Clicked on Products Dropdown Link
+2021-12-13 20:53:27 Reporter [DEBUG] Wait for page title to contains:Products | Certain
+2021-12-13 20:54:03 Reporter [DEBUG] Wait until Message Opacity is > 0 and is not undefined
+2021-12-13 20:54:03 Reporter [DEBUG] Execute javascript: window.TestMessageListenerForText;waitForTextMessage =function() {window.TestMessageListenerForText = 1;window.TestMessageListenerSK = window.setInterval(function(){var e1 = document.getElementsByClassName('ui-pnotify-title');if(e1[0]!= undefined){window.TestMessageListenerForText = e1[0].innerHTML;window.clearTimeout(window.TestMessageListenerSK);};},100);};
+2021-12-13 20:54:04 Reporter [DEBUG] Execute javascript: waitForTextMessage();
+2021-12-13 20:54:04 Reporter [DEBUG] Execute javascript: return window.TestMessageListenerForText;
+2021-12-13 20:54:04 Reporter [INFO] Message Displayed = Warning
+2021-12-13 20:54:04 Reporter [INFO] Message displayed success
+2021-12-13 20:54:04 cache [DEBUG] Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-12-13 20:54:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-12-13 20:54:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-13 20:54:04 cache [DEBUG] TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-13 20:54:04 cache [DEBUG] Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Info/.m2/repository/com/relevantcodes/extentreports/2.40.1/extentreports-2.40.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-13 20:54:04 Reporter [INFO] Inside Tear Down.
+2021-12-13 20:54:05 Reporter [INFO] size of window handles 1
+2021-12-13 20:54:06 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:54:06 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:54:39 Reporter [INFO] ---------- false
+2021-12-13 20:54:44 Reporter [INFO] entered in this loop
+2021-12-13 20:54:44 Reporter [INFO] Scrolling up till the top of the page
+2021-12-13 20:54:44 Reporter [DEBUG] Execute javascript: window.scrollTo(document.body.scrollHeight,0); return true
+2021-12-13 20:54:49 Reporter [INFO] Exiting Tear Down.

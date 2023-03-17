@@ -8,3 +8,5 @@ TECHNOLOGY
 - Selenium Server 4.6.0
 - Integration with Jenkins 2.332
 - Integration with Atlassian Bamboo
+- Integration with Git
+- Python 3.9
